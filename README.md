@@ -7,6 +7,11 @@ Hospital readmissions are an important healthcare quality metric that can impact
 
 ReadmissionIQ enables users to explore readmission trends through natural language questions and receive AI-generated analytical summaries and operational recommendations.
 
+## Demo
+
+A short demonstration video is available on my LinkedIn project showcase:
+(https://www.linkedin.com/posts/sahajparaashar_healthcareanalytics-businessanalytics-snowflake-ugcPost-7467045442388721664-qiDS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPWVdQBoPlXETpLkkZcSYk_LzsJ5jn9xiI)
+
 ## Features
 
 * Natural language healthcare analytics
