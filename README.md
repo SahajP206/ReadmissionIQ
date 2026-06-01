@@ -1,8 +1,5 @@
 # ReadmissionIQ
-AI-powered healthcare readmission intelligence application built using Snowflake Cortex, Snowpark Python, SQL, and Streamlit.
-# ReadmissionIQ
-
-ReadmissionIQ is an AI-powered healthcare analytics application that analyzes CMS Hospital Readmissions Reduction Program (HRRP) data and generates executive-level insights using Snowflake Cortex.
+AI-powered healthcare readmission intelligence application built using Snowflake Cortex, Snowpark Python, SQL, and Streamlit that analyzes CMS Hospital Readmissions Reduction Program (HRRP) data and generates executive-level insights using Snowflake Cortex.
 
 ## Overview
 
